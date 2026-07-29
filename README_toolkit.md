@@ -15,7 +15,7 @@
 
 ---
 
-## 📁 Specialization
+## 📁 Contenido
 
 | Carpeta | Contenido |
 |---|---|
