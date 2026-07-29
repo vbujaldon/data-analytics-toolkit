@@ -11,7 +11,7 @@
 
 </div>
 
-> Para proyectos completos de negocio, con pregunta de negocio, metodología y resultados, mira **[hr-risk-and-training-analytics](https://github.com/vbujaldon/hr-risk-and-training-analytics)** y **spain_outbound_tourism_analysis**.
+> Para proyectos completos de negocio, con pregunta de negocio, metodología y resultados, mira **[hr-risk-and-training-analytics](https://github.com/vbujaldon/hr-risk-and-training-analytics)** y **[spain_outbound_tourism_analysis](https://github.com/vbujaldon/spain_outbound_tourism_analysis)**.
 
 ---
 
