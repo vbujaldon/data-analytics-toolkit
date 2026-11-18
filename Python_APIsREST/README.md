@@ -29,9 +29,9 @@ The project covers three progressive levels:
 
 ```
 📁 Sprint_12_APIs
-- PYTHON CODE: Sprint_12_APIs.ipynb
+- PYTHON CODE: rest_apis.ipynb
 - opendata_bcn.csv
-- Mapa conceptual APIs.JPG
+- apis_concept_map.jpg
 - README.md
 ```
 
@@ -42,7 +42,7 @@ HTTP methods (GET, POST, PUT, PATCH, DELETE), status codes and the difference
 between API and REST API.
 Handwritten by the author.
 
-📎 `Mapa_conceptual_APIs.JPG`
+![APIs concept map](apis_concept_map.jpg)
 
 ---
 

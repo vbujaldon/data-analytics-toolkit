@@ -2,37 +2,39 @@
 
 # 🧰 Data Analytics Toolkit
 
-### Ejercicios técnicos individuales, organizados por tecnología
+### Individual technical exercises, organised by technology
 
 ![SQL](https://img.shields.io/badge/SQL-Queries%20%26%20Modeling-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-47A248?logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20APIs%20%7C%20Viz-3776AB?logo=python&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?logo=powerbi&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-Intro-47A248?logo=mongodb&logoColor=white)
 
 </div>
 
-> Para proyectos completos de negocio, con pregunta de negocio, metodología y resultados, mira **[hr-risk-and-training-analytics](https://github.com/vbujaldon/hr-risk-and-training-analytics)** y **[spain_outbound_tourism_analysis](https://github.com/vbujaldon/spain_outbound_tourism_analysis)**.
+> Looking for complete business projects (business question, method and results)? See
+> **[spain_outbound_tourism_analysis](https://github.com/vbujaldon/spain_outbound_tourism_analysis)** and
+> **[hr-risk-and-training-analytics](https://github.com/vbujaldon/hr-risk-and-training-analytics)**.
 
 ---
 
-## 📁 Contenido
+## 📁 Contents
 
-| Carpeta | Contenido |
+| Folder | What it shows |
 |---|---|
-| `SQL_QueriesAndSubqueries` | Consultas con `JOIN`, subconsultas, `GROUP BY`/`HAVING`, `CASE WHEN` |
-| `SQL_TablesAndViews` | Creación de tablas, claves foráneas, inserciones y actualizaciones de registros |
-| `SQL_DataModeling` | Diseño de esquema (tabla de hechos y dimensiones), carga de datos con `LOAD DATA` |
-| `MongoDB_Queries` | Consultas NoSQL sobre documentos MongoDB |
-| `PowerBI` | Dos dashboards interactivos (`.pbix`) |
-| `Python_Basics` | Funciones, `try/except`, lectura de ficheros, diccionarios y `Counter` |
-| `Python_Pandas` | Creación, transformación y ordenación de DataFrames |
-| `Python_Visualization` | Conexión a MySQL + visualización con Matplotlib, Seaborn y Plotly, integrada en Power BI |
-| `Python_APIsREST` | Consumo de APIs REST (JSONPlaceholder, API pública y Open Data BCN vía CKAN) |
+| [`SQL_QueriesAndSubqueries`](SQL_QueriesAndSubqueries) | `JOIN`s, subqueries, `GROUP BY` / `HAVING`, `CASE WHEN` |
+| [`SQL_TablesAndViews`](SQL_TablesAndViews) | Table creation, foreign keys, inserts, updates and views |
+| [`SQL_DataModeling`](SQL_DataModeling) | Schema design with fact and dimension tables, data loading with `LOAD DATA` |
+| [`PowerBI`](PowerBI) | Two interactive dashboards (`.pbix`) |
+| [`Python_Basics`](Python_Basics) | Functions, `try/except`, file reading, dictionaries and `Counter` |
+| [`Python_Pandas`](Python_Pandas) | Creating, transforming and sorting DataFrames |
+| [`Python_Visualization`](Python_Visualization) | MySQL connection + Matplotlib, Seaborn and Plotly charts, integrated into Power BI |
+| [`Python_APIsREST`](Python_APIsREST) | REST API consumption: JSONPlaceholder, a public API and Open Data BCN (CKAN) |
+| [`MongoDB_Queries`](MongoDB_Queries) | Introductory NoSQL queries |
 
 ---
 
 <div align="center">
 
-*Cada carpeta es un ejercicio independiente — el nombre indica la tecnología practicada.*
+*Each folder is an independent exercise developed during the IT Academy Data Analytics programme (Barcelona Activa).*
 
 </div>
