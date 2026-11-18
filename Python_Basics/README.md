@@ -5,9 +5,8 @@ The exercises are designed to **reinforce fundamental Python concepts**, with a 
 
 ## Repository contents
 
-1- .PDF with 8 exercises, code screenshots and explanations.
-2- CODE in a JUPYTER NOTEBOOK.
-3- Two .TXT with sample texts for testing two of the Python programs.
+1. `python_basics_exercises.ipynb` — 8 exercises with code and explanations (Jupyter Notebook)
+2. Two `.txt` files with sample texts used by two of the programs
 
 The exercises include, among others:
 
